@@ -22,5 +22,5 @@
 <code><img height="32" src="https://github.com/nedsonvieira/nedsonvieira/blob/main/img/maven.png" alt="Maven"/></code>
 <code><img height="32" src="https://github.com/nedsonvieira/nedsonvieira/blob/main/img/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://github.com/nedsonvieira/nedsonvieira/blob/main/img/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://github.com/nedsonvieira/nedsonvieira/blob/main/img/rabbitmq.png" alt="RabbitMQ"/></code>
+<code><img height="32" src="" alt="RabbitMQ"/></code>
 <code><img height="32" src="https://github.com/nedsonvieira/nedsonvieira/blob/main/img/spring.png" alt="SpringBoot"/></code>
