@@ -1,19 +1,17 @@
 # Bem vindo ao meu perfil GitHub 👋
 
-## Me chamo Nedson Vieira! 
-
 ## Sobre mim
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Sistemas de Informação e Pós-graduando em Desenvolvimento de Software com Java.
-- 💼 Buscando oportunidades como Dev Full-stack Java.
+- 💼 Buscando oportunidades como Dev Full-Stack Java.
 - 🌱 Aprendendo mais sobre Angular, TypeScript, Terraform, AWS, Nginx e Kafka.
 
 ---
 
 ## 🚀 Minhas Skills
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <code><img height="32" src="" alt="Java"/></code>
 <code><img height="32" src="" alt="SpringBoot"/><code>
