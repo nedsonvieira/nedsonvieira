@@ -2,10 +2,11 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em Sistemas de Informação e Pós-graduando em Desenvolvimento de Software com Java.
-- 💼 Buscando oportunidades como Dev Full-Stack Java.
-- 🌱 Aprendendo mais sobre Angular, TypeScript, Terraform, AWS, Nginx e Kafka.
+- Profissional com experiência nas áreas administrativa e de ensino em tecnologia, atualmente em transição de carreira para o ecossistema Salesforce. Apaixonado por desenvolvimento de software, estou em busca da minha primeira oportunidade como Desenvolvedor Salesforce ou Administrador Salesforce, com foco na criação de soluções eficientes e inovadoras utilizando Apex, LWC, OmniStudio e Agentforce.
+
+- Participei do Bootcamp de Excelência Salesforce da Sysmap (2025), onde aprofundei meus conhecimentos na plataforma. No Trailhead, alcancei o nível Ranger e concluí 6 superbadges, reforçando meu comprometimento com o aprendizado contínuo e a aplicação prática das competências adquiridas.
+
+- Aberto a novos desafios e oportunidades para contribuir com equipes que valorizam tecnologia, aprendizado e impacto real.
 
 ---
 
